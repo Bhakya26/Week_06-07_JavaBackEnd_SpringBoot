@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaef2637-d347-4025-aa3e-04d3f672fd94" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/.project" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/.settings/.jsdtscope" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/.settings/.jsdtscope" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/src/main/java/cscorner/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/src/main/java/cscorner/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/src/main/java/cscorner/servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/src/main/java/cscorner/Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/src/main/webapp/WEB-INF/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/src/main/webapp/WEB-INF/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_TomcatServlet/loginpage/src/main/webapp/WEB-INF/loginsuccess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/01_TomcatServlet/LoginPage/src/main/webapp/WEB-INF/loginsuccess.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Spring_Employee_Payroll_App_Setup_with_service_layer/AddressBookApplication" beforeDir="false" afterPath="$PROJECT_DIR$/05_Spring_Employee_Payroll_App_Setup_with_service_layer/AddressBookApplication" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Spring_Employee_Payroll_App_Setup_with_service_layer/AddressBookApplication/src/main/java/com/example/bhakyaPack/Model/AddressBookmodel.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_Spring_Employee_Payroll_App_Setup_with_service_layer/AddressBookApplication/src/main/java/com/example/bhakyaPack/Model/AddressBookModel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2xObIAKGXjZHZHQztxKZpdAeKKx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Bridgelabs/Week_06"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaef2637-d347-4025-aa3e-04d3f672fd94" name="Changes" comment="" />
+      <created>1747811984969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747811984969</updated>
+    </task>
+    <servers />
+  </component>
+</project>
